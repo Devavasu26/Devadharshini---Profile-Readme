@@ -3,7 +3,7 @@
   <a href="https://www.linkedin.com/in/devadharshini-v-b2a978248/">LinkedIn</a>
 </p>
 
-<img align="right" height="150rem" alt="GIF" src="gif/Deva.gif" />
+<img align="right" height="150rem" alt="GIF" src="Deva.gif" />
 
 **Brief introduction about Me:**
 
